@@ -4,4 +4,4 @@ m-modificado(esta modificado)
 a-agregado(git add "archivo.extension)
 para subir  se usa git push -u  origin
 
-
+:smile: 
