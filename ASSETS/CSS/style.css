@@ -125,5 +125,32 @@ div.qr {
  
     
  }  
+ .footer.navbar-expand-lg{
+    background: #60adcc;
+    width: 10%;
+    height: 20%;
+    padding: 1rem;
+ }
  
+.login {
+   margin-top: 22%;
+    height: 42vh;
+}
 
+.formulario-login {
+    margin-top: 20%;
+}
+
+.perfil {
+    box-shadow: 6px 6px 6px 6px rgba(51, 119, 165, 0.7);
+    margin-top: rem;
+    margin-left: 1rem;
+    
+    }
+/*.admin {
+    font-size: 1.3rem;
+}
+.link {
+    text-decoration: none;
+    color: #60adcc;
+}
